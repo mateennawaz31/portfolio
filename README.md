@@ -12,3 +12,10 @@ Enhance User Convenience: Simplify the receipt management process for users, eli
 Promote Eco-Friendly Practices: Encourage the use of digital receipts to reduce paper waste.
 Ensure Data Security: Provide a secure platform for users to store and access their receipts.
 Improve Store-Customer Interaction: Facilitate seamless communication between the store and customers through instant receipt notifications.
+
+**Tech Used**
+
+- Swift UIKit 
+- RESTful API’s
+- Push Notification
+- Firebase
