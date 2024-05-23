@@ -21,4 +21,4 @@ Improve Store-Customer Interaction: Facilitate seamless communication between th
 - Firebase
 
 
-![](/assets/imgaes/Fibra/1.png)
+![](/assets/images/Fibra/1.png)
