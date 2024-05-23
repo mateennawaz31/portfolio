@@ -20,5 +20,4 @@ Improve Store-Customer Interaction: Facilitate seamless communication between th
 - Push Notification
 - Firebase
 
-
-![](/assets/images/Fibra/1.png)
+![](/mateennawaz.github.io/images/Fibra/1.png)
