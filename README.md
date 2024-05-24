@@ -20,8 +20,7 @@ Improve Store-Customer Interaction: Facilitate seamless communication between th
 - Push Notification
 - Firebase
 
-![alt-text-1](images/Fibra/1.png "title-1") ![alt-text-2](images/Fibra/2.png "title-2")
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](images/Fibra/1.png)  |  ![](images/Fibra/4.png)
 
-![Cheese!](images/Fibra/1.png)![Cheese!](images/Fibra/2.png)![Cheese!](images/Fibra/3.png)
-
-![Book](/mateennawaz.github.io/images/Fibra/1.png)
