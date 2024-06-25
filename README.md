@@ -164,11 +164,9 @@ By integrating AI-driven features and user-centric design, Medical Ai aims to re
 
 <p align="center">
   <img src="images/MedicalAi/medical2.png" alt="Image 1" width="150" height="300" />
-  <img src="images/Intely/3.png" alt="Image 2" width="150" height="300" />
-  <img src="images/Intely/9.png" alt="Image 3" width="150" height="300" />
-  <img src="images/Intely/7.png" alt="Image 4" width="150" height="300" />
-  <img src="images/Intely/8.png" alt="Image 4" width="150" height="300" />
-  <img src="images/Intely/1.png" alt="Image 3" width="150" height="300" />
+  <img src="images/MedicalAi/medical3.png" alt="Image 2" width="150" height="300" />
+  <img src="images/MedicalAi/medical9.png" alt="Image 3" width="150" height="300" />
+  <img src="images/MedicalAi/medical7.png" alt="Image 4" width="150" height="300" />
+  <img src="images/MedicalAi/medical8.png" alt="Image 4" width="150" height="300" />
+  <img src="images/MedicalAi/medical1.png" alt="Image 3" width="150" height="300" />
 </p>
-
-![](images/MedicalAi/medical1.png) | ![](images/MedicalAi/medical2.png) | ![](images/MedicalAi/medical3.png) | ![](images/MedicalAi/medical7.png) | ![](images/MedicalAi/medical8.png)
