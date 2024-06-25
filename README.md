@@ -109,18 +109,15 @@ Intely Health aims to revolutionize healthcare delivery by bridging the gap betw
 - Interactive Human Anatomy
 
 <p align="center">
-  <img src="images/Intely/2.png" alt="Image 1" width="200" height="400" />
-  <img src="images/Intely/5.png" alt="Image 2" width="200" height="400" />
-  <img src="images/Intely/4.png" alt="Image 3" width="200" height="400" />
-  <img src="images/Intely/6.png" alt="Image 4" width="200" height="400" />
-  <img src="images/Intely/12.png" alt="Image 4" width="200" height="400" />
-</p>
-
-<p align="center">
-  <img src="images/Intely/11.png" alt="Image 5" width="300" height="500" />
-  <img src="images/Trough/10.png" alt="Image 6" width="300" height="500" />
-  <img src="images/Intely/13.png" alt="Image 7" width="300" height="500" />
-  <img src="images/Intely/14.png" alt="Image 8" width="300" height="500" />
+  <img src="images/Intely/2.png" alt="Image 1" width="150" height="300" />
+  <img src="images/Intely/5.png" alt="Image 2" width="150" height="300" />
+  <img src="images/Intely/4.png" alt="Image 3" width="150" height="300" />
+  <img src="images/Intely/6.png" alt="Image 4" width="150" height="300" />
+  <img src="images/Intely/12.png" alt="Image 4" width="150" height="300" />
+  <img src="images/Intely/11.png" alt="Image 3" width="150" height="300" />
+  <img src="images/Intely/10.png" alt="Image 4" width="150" height="300" />
+  <img src="images/Intely/13.png" alt="Image 4" width="150" height="300" />
+  <img src="images/Intely/14.png" alt="Image 4" width="150" height="300" />
 </p>
 
 ***Medical Ai***
@@ -164,5 +161,14 @@ By integrating AI-driven features and user-centric design, Medical Ai aims to re
 - OpenTok
 - Stripe
 - DGCharts
+
+<p align="center">
+  <img src="images/MedicalAi/medical2.png" alt="Image 1" width="150" height="300" />
+  <img src="images/Intely/3.png" alt="Image 2" width="150" height="300" />
+  <img src="images/Intely/9.png" alt="Image 3" width="150" height="300" />
+  <img src="images/Intely/7.png" alt="Image 4" width="150" height="300" />
+  <img src="images/Intely/8.png" alt="Image 4" width="150" height="300" />
+  <img src="images/Intely/1.png" alt="Image 3" width="150" height="300" />
+</p>
 
 ![](images/MedicalAi/medical1.png) | ![](images/MedicalAi/medical2.png) | ![](images/MedicalAi/medical3.png) | ![](images/MedicalAi/medical7.png) | ![](images/MedicalAi/medical8.png)
