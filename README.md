@@ -109,4 +109,4 @@ Intely Health aims to revolutionize healthcare delivery by bridging the gap betw
 - Interactive Human Anatomy
 
 
-![](images/IntelyHealth/1.png)  |  ![](images/IntelyHealth.png)  |  ![](images/IntelyHealth/4.png)  |  ![](images/IntelyHealth/6.png)  |  ![](images/IntelyHealth/8.png)  
+![](images/Intely Health/1.png)  |  ![](images/IntelyHealth.png)  |  ![](images/IntelyHealth/4.png)  |  ![](images/IntelyHealth/6.png)  |  ![](images/IntelyHealth/8.png)  
