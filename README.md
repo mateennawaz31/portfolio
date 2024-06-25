@@ -22,7 +22,7 @@ Improve Store-Customer Interaction: Facilitate seamless communication between th
 
 ![](images/Fibra/1.png)  |  ![](images/Fibra/4.png)  |  ![](images/Fibra/3.png)  |  ![](images/Fibra/6.png)   
 
-**Trough**
+**Trough**(https://apps.apple.com/us/app/trough/id6443418603)
 
 **Project Overview**
 
