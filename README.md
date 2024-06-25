@@ -108,7 +108,7 @@ Intely Health aims to revolutionize healthcare delivery by bridging the gap betw
 - Stripe
 - Interactive Human Anatomy
 
-![](images/Intely/1.png)  |  ![](images/Intely/3.png)  |  ![](images/Intely/4.png)  |  ![](images/Intely/6.png)  |  ![](images/Trough/13.png)
+![](images/Intely/1.png) | ![](images/Intely/3.png)  |  ![](images/Intely/4.png)  |  ![](images/Intely/6.png)  |  ![](images/Trough/13.png)
 ![](images/Intely/1.png)  |  ![](images/Intely/5.png)  |  ![](images/Intely/7.png)  |  ![](images/Intely/9.png)  |  ![](images/Trough/10.png)
 ![](images/Intely/10.png) |  ![](images/Intely/14.png)
 
@@ -157,7 +157,5 @@ By integrating AI-driven features and user-centric design, Medical Ai aims to re
 
 
 ![](images/MedicalAi/medical8.png)  |  ![](images/MedicalAi/medical3.png)  |  ![](images/MedicalAi/medical4.png)  |  ![](images/MedicalAi/medical6.png)
-
 ![](images/MedicalAi/medical2.png)  |  ![](images/MedicalAi/medical8.png)  |  ![](images/MedicalAi/medical2.png)  |  ![](images/MedicalAi/medical9.png)
-
 ![](images/MedicalAi/medical5.png)  |  ![](images/MedicalAi/medical3.png)  |  ![](images/MedicalAi/medical14.png) |  ![](images/MedicalAi/medica1.png)
