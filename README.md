@@ -1,6 +1,6 @@
 # iOS Apps
 
-**Fibra**
+# Fibra
 
 **Project Overview**
 
@@ -22,7 +22,8 @@ Improve Store-Customer Interaction: Facilitate seamless communication between th
 
 ![](images/Fibra/1.png)  |  ![](images/Fibra/4.png)  |  ![](images/Fibra/3.png)  |  ![](images/Fibra/6.png)   
 
-**Trough**(https://apps.apple.com/us/app/trough/id6443418603)
+# Trough
+Available on App Store! Link: 'https://apps.apple.com/us/app/trough/id6443418603'
 
 **Project Overview**
 
@@ -68,7 +69,7 @@ By achieving these goals, Trough aims to streamline the process of event plannin
 ![](images/Trough/1.png)  |  ![](images/Trough/5.png)  |  ![](images/Trough/4.png)  |  ![](images/Trough/6.png)  |  ![](images/Trough/8.png)
 
 
-**Intely Health**
+# Intely Health
 
 **Project Overview**
 
@@ -120,7 +121,7 @@ Intely Health aims to revolutionize healthcare delivery by bridging the gap betw
   <img src="images/Intely/14.png" alt="Image 4" width="150" height="300" />
 </p>
 
-***Medical Ai***
+# Medical Ai
 
 **Project Overview**
 
