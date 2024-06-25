@@ -20,11 +20,8 @@ Improve Store-Customer Interaction: Facilitate seamless communication between th
 - Push Notification
 - Firebase
 
-:-------------------------:|:-------------------------: 
 ![](images/Fibra/1.png)  |  ![](images/Fibra/4.png)     
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------: 
+ 
 ![](images/Fibra/3.png)  |  ![](images/Fibra/6.png)   
 
 Trough
@@ -79,8 +76,6 @@ By achieving these goals, Trough aims to streamline the process of event plannin
 - Firebase
 - Google Maps
 
-:-------------------------:|:-------------------------: |:-------------------------: 
-![](images/Trough/1.png)  |  ![](images/Trough/2.png)    ![](images/Trough/3.png)     
+![](images/Trough/1.png)  |  ![](images/Trough/2.png)  |  ![](images/Trough/3.png)     
 
-:-------------------------:|:-------------------------: 
 ![](images/Trough/4.png)  |  ![](images/Trough/5.png)   
