@@ -109,4 +109,50 @@ Intely Health aims to revolutionize healthcare delivery by bridging the gap betw
 - Interactive Human Anatomy
 
 
-![](images/Intely Health/1.png)  |  ![](images/IntelyHealth.png)  |  ![](images/IntelyHealth/4.png)  |  ![](images/IntelyHealth/6.png)  |  ![](images/IntelyHealth/8.png)  
+![](images/Intely/1.png)  |  ![](images/Intely/3.png)  |  ![](images/Intely/4.png)  |  ![](images/Intely/6.png)  |  ![](images/Intely/8.png)  
+
+***Intely Health***
+
+**Project Overview**
+
+Medical Ai is an advanced iOS application designed to enhance the healthcare experience for both patients and doctors through the use of artificial intelligence. The app offers a comprehensive suite of features that facilitate appointment management, virtual consultations, patient-doctor communication, and AI-driven medical advice. The platform is divided into two main interfaces: one for doctors and one for patients, each tailored to their specific needs and functionalities.
+
+
+**Project Goal**
+
+
+Project Overview: Medical Ai
+Medical Ai is an advanced iOS application designed to enhance the healthcare experience for both patients and doctors through the use of artificial intelligence. The app offers a comprehensive suite of features that facilitate appointment management, virtual consultations, patient-doctor communication, and AI-driven medical advice. The platform is divided into two main interfaces: one for doctors and one for patients, each tailored to their specific needs and functionalities.
+
+Project Goal:
+The goal of Medical Ai is to provide a state-of-the-art digital healthcare solution that leverages artificial intelligence to improve accessibility, efficiency, and quality of care for patients and doctors. Key objectives include:
+
+Doctors: Manage patient information, appointment slots, earnings, and communications efficiently through an intuitive dashboard. The app allows doctors to document appointment details, SOAP notes, and vitals during video calls.
+Patients: Easily book appointments, manage personal and medical information, and track their healthcare interactions through a user-friendly interface.
+
+Enable patients and doctors to conduct secure video consultations, ensuring timely and accessible medical care.
+Allow doctors to add notes and vital records during consultations, ensuring comprehensive documentation.
+
+AI Chatbot: Provide patients with instant access to a general physician AI chatbot for preliminary medical advice, reducing the need for immediate appointments.
+Allow patients to read doctor-created blogs and access educational content within the app.
+
+Patients can input and manage their personal and medical information, including lab results, ensuring that doctors have all necessary data for accurate diagnosis and treatment.
+Doctors can create detailed profiles showcasing their experience, achievements, and specialties to build trust and credibility.
+
+Provide doctors with analytics on total patients, earnings, and appointment statistics to help them manage their practice effectively.
+Offer patients insights into their appointment history and health metrics, promoting proactive health management.
+
+By integrating AI-driven features and user-centric design, Medical Ai aims to revolutionize the way healthcare is delivered and managed, ensuring a seamless, efficient, and accessible experience for both patients and doctors.
+
+**Tech Used**
+
+- Swift UIKit 
+- RESTful API’s
+- Push Notification
+- Firebase
+- Socket.IO
+- OpenTok
+- Stripe
+- DGCharts
+
+  ![](images/Intely/5.png)  |  ![](images/Intely/7.png)  |  ![](images/Intely/9.png)  |  ![](images/Intely/10.png)  |  ![](images/Intely/14.png)  
