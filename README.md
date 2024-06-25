@@ -21,6 +21,9 @@ Improve Store-Customer Interaction: Facilitate seamless communication between th
 - Firebase
 
 Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](images/Fibra/1.png)  |  ![](images/Fibra/4.png)
+:-------------------------:|:-------------------------: 
+![](images/Fibra/1.png)  |  ![](images/Fibra/4.png)     
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------: 
+![](images/Fibra/1.png)  |  ![](images/Fibra/4.png)   
