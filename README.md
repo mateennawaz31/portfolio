@@ -23,7 +23,9 @@ Improve Store-Customer Interaction: Facilitate seamless communication between th
 ![](images/Fibra/1.png)  |  ![](images/Fibra/4.png)  |  ![](images/Fibra/3.png)  |  ![](images/Fibra/6.png)   
 
 # Trough
-Available on App Store! Link: 'https://apps.apple.com/us/app/trough/id6443418603'
+<a href="https://apps.apple.com/us/app/trough/id6443418603" target="_blank">
+    <img src="" alt="Available on App Store!" style="width:150px;">
+</a>
 
 **Project Overview**
 
