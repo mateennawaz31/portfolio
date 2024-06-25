@@ -65,7 +65,9 @@ By achieving these goals, Trough aims to streamline the process of event plannin
 - Animations
 - Third-party login
 
-![](images/Trough/1.png)  |  ![](images/Trough/5.png)  |  ![](images/Trough/4.png)  |  ![](images/Trough/6.png)  |  ![](images/Trough/8.png)   
+![](images/Trough/1.png)  |  ![](images/Trough/5.png)  |  ![](images/Trough/4.png)
+
+![](images/Trough/6.png)  |  ![](images/Trough/8.png)
 
 
 **Intely Health**
@@ -109,19 +111,20 @@ Intely Health aims to revolutionize healthcare delivery by bridging the gap betw
 - Interactive Human Anatomy
 
 
-![](images/Intely/1.png)  |  ![](images/Intely/3.png)  |  ![](images/Intely/4.png)  |  ![](images/Intely/6.png)  |  ![](images/Intely/13.png)  
+![](images/Intely/1.png)  |  ![](images/Intely/3.png)  |  ![](images/Intely/4.png)  |  ![](images/Intely/6.png)
 
-![](images/Intely/5.png)  |  ![](images/Intely/7.png)  |  ![](images/Intely/9.png)  |  ![](images/Intely/10.png)  |  ![](images/Intely/14.png)  
+![](images/Intely/13.png)  |  ![](images/Intely/5.png)  |  ![](images/Intely/7.png)  |  ![](images/Intely/9.png)
 
-***Intely Health***
+![](images/Intely/10.png)  |  ![](images/Intely/14.png)
+
+
+***Medical Ai***
 
 **Project Overview**
 
 Medical Ai is an advanced iOS application designed to enhance the healthcare experience for both patients and doctors through the use of artificial intelligence. The app offers a comprehensive suite of features that facilitate appointment management, virtual consultations, patient-doctor communication, and AI-driven medical advice. The platform is divided into two main interfaces: one for doctors and one for patients, each tailored to their specific needs and functionalities.
 
-
 **Project Goal**
-
 
 Project Overview: Medical Ai
 Medical Ai is an advanced iOS application designed to enhance the healthcare experience for both patients and doctors through the use of artificial intelligence. The app offers a comprehensive suite of features that facilitate appointment management, virtual consultations, patient-doctor communication, and AI-driven medical advice. The platform is divided into two main interfaces: one for doctors and one for patients, each tailored to their specific needs and functionalities.
@@ -157,4 +160,6 @@ By integrating AI-driven features and user-centric design, Medical Ai aims to re
 - Stripe
 - DGCharts
 
-  ![](images/Intely/5.png)  |  ![](images/Intely/7.png)  |  ![](images/Intely/9.png)  |  ![](images/Intely/10.png)  |  ![](images/Intely/14.png)  
+  ![](images/medical1.png)  |  ![](images/medical2.png)  |  ![](images/medical6.png)  |  ![](images/medical5.png)
+  
+  ![](images/medical3.png)  |  ![](images/medical4.png)  |  ![](images/medical8.png)  |  ![](images/medical9.png)
