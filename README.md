@@ -110,9 +110,10 @@ Intely Health aims to revolutionize healthcare delivery by bridging the gap betw
 
 <p align="center">
   <img src="images/Intely/2.png" alt="Image 1" width="200" height="400" />
-  <img src="images/Intely/3.png" alt="Image 2" width="200" height="400" />
+  <img src="images/Intely/5.png" alt="Image 2" width="200" height="400" />
   <img src="images/Intely/4.png" alt="Image 3" width="200" height="400" />
   <img src="images/Intely/6.png" alt="Image 4" width="200" height="400" />
+  <img src="images/Intely/12.png" alt="Image 4" width="200" height="400" />
 </p>
 
 <p align="center">
