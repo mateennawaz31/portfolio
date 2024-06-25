@@ -108,9 +108,19 @@ Intely Health aims to revolutionize healthcare delivery by bridging the gap betw
 - Stripe
 - Interactive Human Anatomy
 
-![](images/Intely/2.png)   |   ![](images/Intely/3.png)   |   ![](images/Intely/4.png)   |   ![](images/Intely/6.png)   |   ![](images/Intely/11.png)
+<p align="center">
+  <img src="images/Intely/2.png" alt="Image 1" width="100" height="100" />
+  <img src="images/Intely/3.png" alt="Image 2" width="100" height="100" />
+  <img src="images/Intely/4.png" alt="Image 3" width="100" height="100" />
+  <img src="images/Intely/6.png" alt="Image 4" width="100" height="100" />
+</p>
 
-![](images/Trough/10.png)  |    ![](images/Intely/13.png)   |   ![](images/Intely/14.png)
+<p align="center">
+  <img src="images/Intely/11.png" alt="Image 5" width="100" height="100" />
+  <img src="images/Trough/10.png" alt="Image 6" width="100" height="100" />
+  <img src="images/Intely/13.png" alt="Image 7" width="100" height="100" />
+  <img src="images/Intely/14.png" alt="Image 8" width="100" height="100" />
+</p>
 
 ***Medical Ai***
 
