@@ -163,10 +163,10 @@ By integrating AI-driven features and user-centric design, Medical Ai aims to re
 - DGCharts
 
 <p align="center">
-  <img src="images/MedicalAi/medical2.png" alt="Image 1" width="150" height="300" />
+  <img src="images/MedicalAi/medical12png" alt="Image 1" width="150" height="300" />
   <img src="images/MedicalAi/medical3.png" alt="Image 2" width="150" height="300" />
   <img src="images/MedicalAi/medical9.png" alt="Image 3" width="150" height="300" />
   <img src="images/MedicalAi/medical7.png" alt="Image 4" width="150" height="300" />
-  <img src="images/MedicalAi/medical8.png" alt="Image 4" width="150" height="300" />
-  <img src="images/MedicalAi/medical1.png" alt="Image 3" width="150" height="300" />
+  <img src="images/MedicalAi/medical8.png" alt="Image 4" width="150" height="350" />
+  <img src="images/MedicalAi/medical1.png" alt="Image 3" width="150" height="500" />
 </p>
