@@ -24,7 +24,7 @@ Improve Store-Customer Interaction: Facilitate seamless communication between th
 
 # Trough
 <a href="https://apps.apple.com/us/app/trough/id6443418603" target="_blank">
-    <img src="" alt="Available on App Store!" style="width:150px;">
+    <alt="Available on App Store!" style="width:150px;">
 </a>
 
 **Project Overview**
