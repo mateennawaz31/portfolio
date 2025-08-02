@@ -103,7 +103,7 @@ access restrictions.
 - Firebase
 - MVVM
 
-![](images/Safeti patron/5.png)  |  ![](images/Safetipatron/1.png)  |  ![](images/Safetipatron/2.png)  |  ![](images/Safetipatron/3.png)  |  ![](images/Safetipatron/4.png)
+![](images/Safeti patron/5.png)  |  ![](images/Safeti patron/1.png)  |  ![](images/Safeti patron/2.png)  |  ![](images/Safeti patron/3.png)  |  ![](images/Safeti patron/4.png)
 
 # Safetii Guard (Software Alliance)
 <a href="https://apps.apple.com/pk/app/safetii-patron/id6743107798" target="_blank">
@@ -131,7 +131,7 @@ Safetii helps guards maintain a secure and orderly environment while ensuring a 
 - Firebase
 - MVVM
 
-![](images/SafetiGuard/5.png)  |  ![](images/SafetiGuard/1.png)  |  ![](images/SafetiGuard/2.png)  |  ![](images/SafetiGuard/3.png)  |  ![](images/SafetiGuard/4.png)
+![](images/Safeti Guard/5.png)  |  ![](images/Safeti Guard/1.png)  |  ![](images/Safeti Guard/2.png)  |  ![](images/Safeti Guard/3.png)  |  ![](images/Safeti Guard/4.png)
 
 # Trough (Xeven Solutions (Pvt) Ltd. )
 <a href="https://apps.apple.com/us/app/trough/id6443418603" target="_blank">
