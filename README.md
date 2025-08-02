@@ -47,7 +47,7 @@ Explore our exciting recipes morning, noon and night.
 - Payment Gateways
 - MVVM
 
-![](images/Pissifik/0x0ss(2).png)  |  ![](images/Pissifik/0x0ss(3).png)  |  ![](images/Pissifik/0x0ss(4).png)  |  ![](images/Pissifik/0x0ss(5).png)  |  ![](images/Pissifik/0x0ss(7).png)
+![](images/Pissifik/2.png)  |  ![](images/Pissifik/3.png)  |  ![](images/Pissifik/4.png)  |  ![](images/Pissifik/5.png)  |  ![](images/Pissifik/7.png)
 
 # LM Walk-in Vending (Software Alliance)
 <a href="https://apps.apple.com/pk/app/lm-walk-in-vending/id6746488515" target="_blank">
