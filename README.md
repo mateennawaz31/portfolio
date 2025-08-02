@@ -1,5 +1,34 @@
 # iOS Apps
 
+
+# LM Walk-in Vending
+<a href="https://apps.apple.com/pk/app/lm-walk-in-vending/id6746488515" target="_blank">
+    Download on the App Store
+</a>
+
+**Project Overview**
+
+LM Walk-in Vending is the official app for accessing Lemvigh-Müller’s unmanned SmartWarehouse (SmartLager) locations. 
+Designed for professional customers, the app enables secure entry to the shop, so You can just take the products from the shelves and leave, automatic digital invoicing.
+
+
+**Project Goal**
+
+The goal of LM Walk-in Vending is to revolutionize the B2B shopping experience by offering hassle-free, self-service access to Lemvigh-Müller’s SmartWarehouses.
+
+The app enables secure, store manager-free shopping, allowing professional customers to enter, pick up products, and leave—with all transactions handled automatically through digital invoicing. 
+
+This ensures a seamless, efficient, and time-saving shopping experience.
+
+**Tech Used**
+
+- Swift UIKit 
+- RESTful API’s
+- MVVM
+
+![](images/Trough/1.png)  |  ![](images/Trough/5.png)  |  ![](images/Trough/4.png)  |  ![](images/Trough/6.png)  |  ![](images/Trough/8.png)
+
+
 # Fibra
 
 **Project Overview**
