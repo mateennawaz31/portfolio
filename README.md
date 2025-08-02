@@ -26,7 +26,7 @@ This ensures a seamless, efficient, and time-saving shopping experience.
 - RESTful API’s
 - MVVM
 
-![](images/Trough/1.png)  |  ![](images/Trough/5.png)  |  ![](images/Trough/4.png)  |  ![](images/Trough/6.png)  |  ![](images/Trough/8.png)
+![](images/LM/1.png)  |  ![](images/LM/2.png)  |  ![](images/LM/3.png)  |  ![](images/LM/4.png)  |  ![](images/LM/5.png)
 
 
 # Fibra
