@@ -86,7 +86,6 @@ This ensures a seamless, efficient, and time-saving shopping experience.
 Experience nightlife like never before with Safetii! Your digital passport for club access, visit history, and secure
 identity verification—all in one app.
 
-
 **Project Goal**
 
 Designed to enhance your safety and streamline your clubbing experience, Safetii allows you to: Register using secure MITID verification.
@@ -132,6 +131,84 @@ Safetii helps guards maintain a secure and orderly environment while ensuring a 
 - MVVM
 
 ![](images/SafetiGuard/5.png)  |  ![](images/SafetiGuard/1.png)  |  ![](images/SafetiGuard/2.png)  |  ![](images/SafetiGuard/3.png)  |  ![](images/SafetiGuard/4.png)
+
+# Unlimit Key (Software Alliance)
+<a href="https://apps.apple.com/pk/app/lm-walk-in-vending/id6746488515" target="_blank">
+    Download on the App Store
+</a>
+
+**Project Overview**
+
+Unlimit Key, your ultimate companion for seamless access to shops and stores. Discover a new level of convenience as you navigate the world of retail with our feature-rich app
+
+**Project Goal**
+
+
+Find Nearby Shops: Explore a curated list of shops in your vicinity. Effortlessly discover new places to shop, dine, and explore.
+
+Search by Name and Zip Code: Looking for a specific shop? Use our search feature to find your favorite stores or businesses by name or enter the zip code for targeted results.
+
+Shop Open/Close Timing: Stay informed about shop operating hours. Know when your favorite shops open and close, ensuring you make the most of your shopping experience.
+
+Shop Address and Navigation: Get precise shop addresses and seamlessly navigate to them using Google Maps integration. Reach your destination hassle-free.
+
+Unlock Shop Doors: Unlock the doors of participating shops right from the app. Experience a new level of convenience and eliminate the need for physical keys or cards.
+
+Account Management: Take control of your account. Easily deactivate or delete your account whenever you desire, putting you in full command of your personal data.
+
+Experience the future of seamless shopping with Unlimit Key. Discover nearby shops, access key information, and unlock doors with a simple tap. Download now and unlock a world of convenience!
+
+**Tech Used**
+
+- Swift UIKit 
+- RESTful API’s
+- Push Notofications
+- Google maps
+- Nfc
+- MVVM
+
+![](images/Unlimit/1.png)  |![](images/Unlimit/6.png)  |  ![](images/Unlimit/2.png)  |  ![](images/Unlimit/3.png)  |  ![](images/Unlimit/4.png)  |  ![](images/Unlimit/5.png)
+
+# AllahuAlam (Software Alliance)
+
+**Project Overview**
+
+AllahuAlam is an all-in-one Islamic app offering Qibla direction, prayer times, reminders, tracking, and Quran recitation with translation.
+
+**Project Goal**
+
+AllahuAlam is a comprehensive Islamic app designed to support Muslims in their daily religious practices. With a clean interface and powerful features, it offers everything you need to stay spiritually connected, organized, and consistent in your worship.
+Whether you’re looking for accurate prayer times, Qibla direction, or the beauty of Quranic recitation with translation, AllahuAlam brings it all together in one place.
+
+Main Features:
+- Qibla Direction
+Find the exact direction of the Qibla using your device’s GPS, no matter where you are.
+
+- Prayer Timings
+Accurate and reliable prayer times based on your location, with multiple calculation methods to suit your preferences.
+
+- Prayer Reminders
+Get gentle notifications before each prayer time so you never miss a Salah again.
+
+- Prayer Tracking
+Keep track of your daily prayers, build consistency, and reflect on your worship routine over time.
+
+- Quran Recitation with Translation
+Read or listen to the Holy Quran with high-quality audio recitations. Understand the Quran better with translations available in multiple languages, including English, Urdu, and more.
+
+AllahuAlam is designed for ease, clarity, and spiritual focus. Whether you are a student, professional, traveler, or at home, this app is here to help you fulfill your religious obligations and deepen your connection with your faith.
+
+**Tech Used**
+
+- Swift UIKit 
+- RESTful API’s
+- Core Location
+- Stripe
+- Push notification
+- Firebase
+- MVVM
+
+![](images/ALLAHuALam/6.png)  |  ![](images/ALLAHuALam/1.png)  |  ![](images/ALLAHuALam/2.png)  |  ![](images/ALLAHuALam/3.png)  |  ![](images/ALLAHuALam/4.png) |  ![](images/ALLAHuALam/5.png)
 
 # Trough (Xeven Solutions (Pvt) Ltd. )
 <a href="https://apps.apple.com/us/app/trough/id6443418603" target="_blank">
