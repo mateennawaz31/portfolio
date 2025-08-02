@@ -47,7 +47,6 @@ Explore our exciting recipes morning, noon and night.
 - Payment Gateways
 - MVVM
 
-![](images/LM/1.png)  |  ![](images/LM/2.png)  |  ![](images/LM/3.png)  |  ![](images/LM/4.png)  |  ![](images/LM/5.png)
 
 ![](images/Pissifik/2.png)  |  ![](images/Pissifik/3.png)  |  ![](images/Pissifik/4.png)  |  ![](images/Pissifik/5.png)  |  ![](images/Pissifik/7.png)
 
