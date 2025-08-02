@@ -47,7 +47,6 @@ Explore our exciting recipes morning, noon and night.
 - Payment Gateways
 - MVVM
 
-
 ![](images/Pissifik/2.png)  |  ![](images/Pissifik/3.png)  |  ![](images/Pissifik/4.png)  |  ![](images/Pissifik/5.png)  |  ![](images/Pissifik/7.png)
 
 
@@ -77,6 +76,63 @@ This ensures a seamless, efficient, and time-saving shopping experience.
 - MVVM
 
 ![](images/LM/1.png)  |  ![](images/LM/2.png)  |  ![](images/LM/3.png)  |  ![](images/LM/4.png)  |  ![](images/LM/5.png)
+
+# Safetii Patron (Software Alliance)
+<a href="https://apps.apple.com/pk/app/safetii-patron/id6743107798" target="_blank">
+    Download on the App Store
+</a>
+
+**Project Overview**
+
+Experience nightlife like never before with Safetii! Your digital passport for club access, visit history, and secure
+identity verification—all in one app.
+
+
+**Project Goal**
+
+Designed to enhance your safety and streamline your clubbing experience, Safetii allows you to: Register using secure MITID verification.
+Generate a QR code for 24-hour venue access.
+Track your visit history with check-in and quarantine records. Receive notifications for incidents or temporary
+access restrictions.
+
+**Tech Used**
+
+- Swift UIKit 
+- RESTful API’s
+- Google maps
+- Push notification
+- Firebase
+- MVVM
+
+![](images/Safetipatron/5.png)  |  ![](images/Safetipatron/1.png)  |  ![](images/Safetipatron/2.png)  |  ![](images/Safetipatron/3.png)  |  ![](images/Safetipatron/4.png)
+
+# Safetii Guard (Software Alliance)
+<a href="https://apps.apple.com/pk/app/safetii-patron/id6743107798" target="_blank">
+    Download on the App Store
+</a>
+
+**Project Overview**
+
+Empower venue security with Safetii Guard App—real-time patron verification, incident tracking, and venue monitoring at your fingertips.
+
+**Project Goal**
+
+The Safetii Guard App is designed specifically for nightlife venue security personnel. Features include:
+Scan QR codes for instant patron identity verification.
+Access patron visit history and incident logs.
+Report incidents and impose temporary bans with reason and duration.
+Monitor real-time patron occupancy inside the venue.
+Safetii helps guards maintain a secure and orderly environment while ensuring a seamless check-in experience for patrons.
+
+**Tech Used**
+
+- Swift UIKit 
+- RESTful API’s
+- Push notification
+- Firebase
+- MVVM
+
+![](images/SafetiGuard/5.png)  |  ![](images/SafetiGuard/1.png)  |  ![](images/SafetiGuard/2.png)  |  ![](images/SafetiGuard/3.png)  |  ![](images/SafetiGuard/4.png)
 
 # Trough (Xeven Solutions (Pvt) Ltd. )
 <a href="https://apps.apple.com/us/app/trough/id6443418603" target="_blank">
