@@ -105,7 +105,7 @@ access restrictions.
 ![](images/Safetipatron/5.png)  |  ![](images/Safetipatron/1.png)  |  ![](images/Safetipatron/2.png)  |  ![](images/Safetipatron/3.png)  |  ![](images/Safetipatron/4.png)
 
 # Safetii Guard (Software Alliance)
-<a href="https://apps.apple.com/pk/app/safetii-patron/id6743107798" target="_blank">
+<a href="https://apps.apple.com/pk/app/safetii-guard/id6743107664" target="_blank">
     Download on the App Store
 </a>
 
