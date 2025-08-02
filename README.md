@@ -1,7 +1,55 @@
 # iOS Apps
 
 
-# LM Walk-in Vending
+# Pisiffik (Software Alliance)
+<a href="https://apps.apple.com/pk/app/pisiffik/id1637092101" target="_blank">
+    Download on the App Store
+</a>
+
+**Project Overview**
+
+An iOS application designed to simplify grocery shopping and delivery in Greenland/Denmark.
+The app offers users a convenient platform to browse, shop, and order products directly from Pisiffik’s online
+store, Pisiffik.
+With a user-friendly interface, it allows for seamless product discovery, adding items to the cart, and tracking
+orders.
+Stay updated with real-time notifications about order status and exclusive deals.
+The app ensures a secure and hassle-free shopping experience
+
+**Project Goal**
+
+Make your membership card digital to access the unique points system and all the great benefits.
+
+Earn points and save on selected items
+
+* Earn points when you shop in Pisiffik or at SPAR, JYSK, ILVA, Pisattat, Elgiganten and T-hansen.
+* New! Buy products directly from the Pisiffik.gl webshop via the app and earn points on your online purchases.
+* Use your points on special promotional items - everything from pots and blenders to sports bags and hiking boots.
+
+Current offers and promotions
+
+* Get great prices on groceries such as butter, milk, vegetables and meat directly in the app.
+* Check out the latest promotions - like discounts on organic and Free for.
+* Organic and sustainability are becoming more and more important in our range, so you can easily make the healthy choice.
+
+Smart shopping list - always at hand
+Get rid of the written note! Create a digital shopping list in the app that you can easily add, delete and edit - at your fingertips on your smartphone.
+
+Delicious recipes
+Explore our exciting recipes morning, noon and night. 
+
+**Tech Used**
+
+- Swift UIKit 
+- RESTful API’s
+- Firebase
+- Push Notification
+- Payment Gateways
+- MVVM
+
+![](images/Pissifik/0x0ss(2).png)  |  ![](images/Pissifik/0x0ss(3).png)  |  ![](images/Pissifik/0x0ss(4).png)  |  ![](images/Pissifik/0x0ss(5).png)  |  ![](images/Pissifik/0x0ss(7).png)
+
+# LM Walk-in Vending (Software Alliance)
 <a href="https://apps.apple.com/pk/app/lm-walk-in-vending/id6746488515" target="_blank">
     Download on the App Store
 </a>
@@ -28,30 +76,7 @@ This ensures a seamless, efficient, and time-saving shopping experience.
 
 ![](images/LM/1.png)  |  ![](images/LM/2.png)  |  ![](images/LM/3.png)  |  ![](images/LM/4.png)  |  ![](images/LM/5.png)
 
-
-# Fibra
-
-**Project Overview**
-
-Fibra is a mobile application designed to streamline the process of managing receipts from a specific store. By generating a unique user code for each customer, the app allows users to receive their receipts digitally and get notified instantly when a new receipt is added to their collection. This innovative approach not only declutters physical storage but also promotes an eco-friendly, paperless environment.
-
-**Project Goal**
-
-Enhance User Convenience: Simplify the receipt management process for users, eliminating the need to keep physical receipts.
-Promote Eco-Friendly Practices: Encourage the use of digital receipts to reduce paper waste.
-Ensure Data Security: Provide a secure platform for users to store and access their receipts.
-Improve Store-Customer Interaction: Facilitate seamless communication between the store and customers through instant receipt notifications.
-
-**Tech Used**
-
-- Swift UIKit 
-- RESTful API’s
-- Push Notification
-- Firebase
-
-![](images/Fibra/1.png)  |  ![](images/Fibra/4.png)  |  ![](images/Fibra/3.png)  |  ![](images/Fibra/6.png)   
-
-# Trough
+# Trough (Xeven Solutions (Pvt) Ltd. )
 <a href="https://apps.apple.com/us/app/trough/id6443418603" target="_blank">
     Download on the App Store
 </a>
@@ -100,7 +125,7 @@ By achieving these goals, Trough aims to streamline the process of event plannin
 ![](images/Trough/1.png)  |  ![](images/Trough/5.png)  |  ![](images/Trough/4.png)  |  ![](images/Trough/6.png)  |  ![](images/Trough/8.png)
 
 
-# Intely Health
+# Intely Health (Xeven Solutions (Pvt) Ltd. )
 
 **Project Overview**
 
@@ -152,7 +177,7 @@ Intely Health aims to revolutionize healthcare delivery by bridging the gap betw
   <img src="images/Intely/14.png" alt="Image 4" width="150" height="300" />
 </p>
 
-# Medical Ai
+# Medical Ai (Xeven Solutions (Pvt) Ltd. )
 
 **Project Overview**
 
@@ -202,3 +227,26 @@ By integrating AI-driven features and user-centric design, Medical Ai aims to re
   <img src="images/MedicalAi/medical8.png" alt="Image 4" width="150" height="350" />
   <img src="images/MedicalAi/medical1.png" alt="Image 3" width="150" height="500" />
 </p>
+
+
+# Fibra
+
+**Project Overview**
+
+Fibra is a mobile application designed to streamline the process of managing receipts from a specific store. By generating a unique user code for each customer, the app allows users to receive their receipts digitally and get notified instantly when a new receipt is added to their collection. This innovative approach not only declutters physical storage but also promotes an eco-friendly, paperless environment.
+
+**Project Goal**
+
+Enhance User Convenience: Simplify the receipt management process for users, eliminating the need to keep physical receipts.
+Promote Eco-Friendly Practices: Encourage the use of digital receipts to reduce paper waste.
+Ensure Data Security: Provide a secure platform for users to store and access their receipts.
+Improve Store-Customer Interaction: Facilitate seamless communication between the store and customers through instant receipt notifications.
+
+**Tech Used**
+
+- Swift UIKit 
+- RESTful API’s
+- Push Notification
+- Firebase
+
+![](images/Fibra/1.png)  |  ![](images/Fibra/4.png)  |  ![](images/Fibra/3.png)  |  ![](images/Fibra/6.png)   
