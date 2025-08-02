@@ -49,7 +49,6 @@ Explore our exciting recipes morning, noon and night.
 
 ![](images/Pissifik/2.png)  |  ![](images/Pissifik/3.png)  |  ![](images/Pissifik/4.png)  |  ![](images/Pissifik/5.png)  |  ![](images/Pissifik/7.png)
 
-
 # LM Walk-in Vending (Software Alliance)
 <a href="https://apps.apple.com/pk/app/lm-walk-in-vending/id6746488515" target="_blank">
     Download on the App Store
@@ -104,7 +103,7 @@ access restrictions.
 - Firebase
 - MVVM
 
-![](images/Safetipatron/5.png)  |  ![](images/Safetipatron/1.png)  |  ![](images/Safetipatron/2.png)  |  ![](images/Safetipatron/3.png)  |  ![](images/Safetipatron/4.png)
+![](images/Safeti patron/5.png)  |  ![](images/Safetipatron/1.png)  |  ![](images/Safetipatron/2.png)  |  ![](images/Safetipatron/3.png)  |  ![](images/Safetipatron/4.png)
 
 # Safetii Guard (Software Alliance)
 <a href="https://apps.apple.com/pk/app/safetii-patron/id6743107798" target="_blank">
