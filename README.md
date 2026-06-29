@@ -1,386 +1,198 @@
-# iOS Apps
+# Mateen Nawaz — Senior iOS Developer
 
+**5+ years · Swift · UIKit · SwiftUI · StoreKit 2 · Apple Pay · MVVM · Xcode Cloud**
 
-# Pisiffik (Software Alliance)
-<a href="https://apps.apple.com/pk/app/pisiffik/id1637092101" target="_blank">
-    Download on the App Store
-</a>
+I build production iOS apps used across Europe, Greenland, and the Middle East. Currently leading an iOS team at Software Alliance and building WorcX — a workforce management platform with a Swift Testing suite and Xcode Cloud CI/CD pipeline.
 
-**Project Overview**
+📍 Lahore, Pakistan · Open to relocation → **Netherlands · Portugal**
+📧 mateennawaz7@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mateen-nawaz-ios-app-developer)
 
-An iOS application designed to simplify grocery shopping and delivery in Greenland/Denmark.
-The app offers users a convenient platform to browse, shop, and order products directly from Pisiffik’s online
-store, Pisiffik.
-With a user-friendly interface, it allows for seamless product discovery, adding items to the cart, and tracking
-orders.
-Stay updated with real-time notifications about order status and exclusive deals.
-The app ensures a secure and hassle-free shopping experience
+---
 
-**Project Goal**
+## Projects
 
-Make your membership card digital to access the unique points system and all the great benefits.
+---
 
-Earn points and save on selected items
+### WorcX — Workforce Management Platform
+*Personal project · In active development*
 
-* Earn points when you shop in Pisiffik or at SPAR, JYSK, ILVA, Pisattat, Elgiganten and T-hansen.
-* New! Buy products directly from the Pisiffik.gl webshop via the app and earn points on your online purchases.
-* Use your points on special promotional items - everything from pots and blenders to sports bags and hiking boots.
+A workforce scheduling and billing platform. Full ownership of architecture, payments, and delivery pipeline.
 
-Current offers and promotions
+**Technical highlights:**
+- MVVM architecture with clean ViewModel/View separation and coordinator-based navigation
+- StoreKit 2 subscription flows and Apple Pay/PassKit payment sheet integration
+- Swift Testing suite: pure logic tests, ViewModel unit tests with mocked dependencies, URLProtocol network stubs
+- Xcode Cloud CI/CD: build-on-PR, automated test runs, archive on release tag
+- UIKit base with UIHostingController for SwiftUI feature screens
 
-* Get great prices on groceries such as butter, milk, vegetables and meat directly in the app.
-* Check out the latest promotions - like discounts on organic and Free for.
-* Organic and sustainability are becoming more and more important in our range, so you can easily make the healthy choice.
+**Tech:** Swift · UIKit · SwiftUI · MVVM · StoreKit 2 · Apple Pay · PassKit · Firebase · Xcode Cloud · Swift Testing · async/await
 
-Smart shopping list - always at hand
-Get rid of the written note! Create a digital shopping list in the app that you can easily add, delete and edit - at your fingertips on your smartphone.
+---
 
-Delicious recipes
-Explore our exciting recipes morning, noon and night. 
+### Safetii Patron — Nightclub Identity Verification
+*Software Alliance · [Download on App Store](https://apps.apple.com/pk/app/safetii-patron/id6743107798)*
 
-**Tech Used**
+Digital identity passport for nightlife venues. Live in Denmark/Europe.
 
-- Swift UIKit 
-- RESTful API’s
-- Firebase
-- Push Notification
-- Payment Gateways
-- MVVM
+**Technical highlights:**
+- MitID (EU identity standard) integration for secure user registration
+- QR code generation with 24-hour expiry logic for venue access
+- Push notification system for incident alerts and access restrictions
+- Visit history with check-in/quarantine record tracking
 
-![](images/Pissifik/2.png)  |  ![](images/Pissifik/3.png)  |  ![](images/Pissifik/4.png)  |  ![](images/Pissifik/5.png)  |  ![](images/Pissifik/7.png)
+**Tech:** Swift · UIKit · MVVM · Firebase (FCM, Auth) · REST APIs · async/await
 
-# LM Walk-in Vending (Software Alliance)
-<a href="https://apps.apple.com/pk/app/lm-walk-in-vending/id6746488515" target="_blank">
-    Download on the App Store
-</a>
+---
 
-**Project Overview**
+### Safetii Guard — Venue Security App
+*Software Alliance · [Download on App Store](https://apps.apple.com/pk/app/safetii-guard/id6743107664)*
 
-LM Walk-in Vending is the official app for accessing Lemvigh-Müller’s unmanned SmartWarehouse (SmartLager) locations. 
-Designed for professional customers, the app enables secure entry to the shop, so You can just take the products from the shelves and leave, automatic digital invoicing.
+Real-time patron verification and incident management for nightlife security staff. Companion app to Safetii Patron.
 
+**Technical highlights:**
+- QR code scanning for instant patron identity verification against live backend
+- Real-time patron occupancy monitoring with push-driven updates
+- Incident reporting and temporary ban management with duration/reason tracking
 
-**Project Goal**
+**Tech:** Swift · UIKit · MVVM · Firebase (FCM) · REST APIs
 
-The goal of LM Walk-in Vending is to revolutionize the B2B shopping experience by offering hassle-free, self-service access to Lemvigh-Müller’s SmartWarehouses.
+---
 
-The app enables secure, store manager-free shopping, allowing professional customers to enter, pick up products, and leave—with all transactions handled automatically through digital invoicing. 
+### Pisiffik — Grocery Delivery App
+*Software Alliance · [Download on App Store](https://apps.apple.com/pk/app/pisiffik/id1637092101)*
 
-This ensures a seamless, efficient, and time-saving shopping experience.
+E-commerce delivery app for Greenland and Denmark. Thousands of active users across Greenlandic retail chain.
 
-**Tech Used**
+**Technical highlights:**
+- Product catalogue with real-time inventory, cart management, and order tracking
+- Loyalty points system integrated across multiple retail partners (SPAR, JYSK, ILVA, T-hansen)
+- Push notification pipeline for order status updates and promotional alerts
+- Payment gateway integration for secure checkout
 
-- Swift UIKit 
-- RESTful API’s
-- MVVM
+**Tech:** Swift · UIKit · MVVM · Firebase (FCM) · REST APIs · Payment Gateways
 
-![](images/LM/1.png)  |  ![](images/LM/2.png)  |  ![](images/LM/3.png)  |  ![](images/LM/4.png)  |  ![](images/LM/5.png)
+---
 
-# Safetii Patron (Software Alliance)
-<a href="https://apps.apple.com/pk/app/safetii-patron/id6743107798" target="_blank">
-    Download on the App Store
-</a>
+### LM Walk-in Vending — Unmanned Warehouse Access
+*Software Alliance · [Download on App Store](https://apps.apple.com/pk/app/lm-walk-in-vending/id6746488515)*
 
-**Project Overview**
+B2B access app for Lemvigh-Müller's unmanned SmartWarehouse locations in Denmark.
 
-Experience nightlife like never before with Safetii! Your digital passport for club access, visit history, and secure
-identity verification—all in one app.
+**Technical highlights:**
+- Secure entry authentication with automatic digital invoicing on exit
+- Designed for professional/enterprise B2B customers with zero human staff interaction
+- Clean UIKit implementation — minimal dependencies, fast launch, reliable offline edge-case handling
 
-**Project Goal**
+**Tech:** Swift · UIKit · MVVM · REST APIs
 
-Designed to enhance your safety and streamline your clubbing experience, Safetii allows you to: Register using secure MITID verification.
-Generate a QR code for 24-hour venue access.
-Track your visit history with check-in and quarantine records. Receive notifications for incidents or temporary
-access restrictions.
+---
 
-**Tech Used**
+### Unlimit Key — Smart Shop Access
+*Software Alliance*
 
-- Swift UIKit 
-- RESTful API’s
-- Google maps
-- Push notification
-- Firebase
-- MVVM
+Retail access app — discover nearby shops, unlock doors via NFC/app, manage account.
 
-![](images/Safetipatron/5.png)  |  ![](images/Safetipatron/1.png)  |  ![](images/Safetipatron/2.png)  |  ![](images/Safetipatron/3.png)  |  ![](images/Safetipatron/4.png)
+**Technical highlights:**
+- NFC-based door unlock flow with hardware integration
+- Google Maps integration for shop discovery and navigation
+- Open/close timing awareness and zip-code search
 
-# Safetii Guard (Software Alliance)
-<a href="https://apps.apple.com/pk/app/safetii-guard/id6743107664" target="_blank">
-    Download on the App Store
-</a>
+**Tech:** Swift · UIKit · MVVM · NFC · Google Maps · Firebase (FCM) · REST APIs
 
-**Project Overview**
+---
 
-Empower venue security with Safetii Guard App—real-time patron verification, incident tracking, and venue monitoring at your fingertips.
+### AllahuAlam — Islamic Reference App
+*Software Alliance*
 
-**Project Goal**
+Comprehensive Islamic lifestyle app — Quran, prayer times, Qibla, and Stripe-powered premium features.
 
-The Safetii Guard App is designed specifically for nightlife venue security personnel. Features include:
-Scan QR codes for instant patron identity verification.
-Access patron visit history and incident logs.
-Report incidents and impose temporary bans with reason and duration.
-Monitor real-time patron occupancy inside the venue.
-Safetii helps guards maintain a secure and orderly environment while ensuring a seamless check-in experience for patrons.
+**Technical highlights:**
+- CoreLocation integration for accurate prayer times and Qibla direction calculation
+- Audio playback engine for Quran recitation with multi-language translation sync
+- Stripe payment integration for premium subscription tier
+- Push notification scheduling for prayer time reminders
 
-**Tech Used**
+**Tech:** Swift · UIKit · MVVM · CoreLocation · Stripe · Firebase (FCM, Auth) · REST APIs
 
-- Swift UIKit 
-- RESTful API’s
-- Push notification
-- Firebase
-- MVVM
+---
 
-![](images/SafetiGuard/5.png)  |  ![](images/SafetiGuard/1.png)  |  ![](images/SafetiGuard/2.png)  |  ![](images/SafetiGuard/3.png)  |  ![](images/SafetiGuard/4.png)
+### Medical AI — Telemedicine Platform
+*Xeven Solutions*
 
-# Unlimit Key (Software Alliance)
-<a href="https://apps.apple.com/pk/app/lm-walk-in-vending/id6746488515" target="_blank">
-    Download on the App Store
-</a>
+Dual-interface telemedicine app (patient + doctor) with AI diagnostics, video consultations, and real-time messaging.
 
-**Project Overview**
+**Technical highlights:**
+- OpenTok (Vonage) video consultation integration with in-call SOAP note capture
+- Socket.IO real-time patient-doctor messaging with read receipts
+- AI chatbot for preliminary symptom triage
+- DGCharts-powered analytics dashboard for doctors (patient counts, earnings, appointment stats)
+- Stripe subscriptions for family plan management
 
-Unlimit Key, your ultimate companion for seamless access to shops and stores. Discover a new level of convenience as you navigate the world of retail with our feature-rich app
+**Tech:** Swift · UIKit · MVVM · Socket.IO · OpenTok · Stripe · Firebase · DGCharts · REST APIs
 
-**Project Goal**
+---
 
+### Intely Health — Virtual Healthcare Platform
+*Xeven Solutions*
 
-Find Nearby Shops: Explore a curated list of shops in your vicinity. Effortlessly discover new places to shop, dine, and explore.
+Full-stack virtual healthcare app connecting patients with doctors for appointments, video calls, and health record management.
 
-Search by Name and Zip Code: Looking for a specific shop? Use our search feature to find your favorite stores or businesses by name or enter the zip code for targeted results.
+**Technical highlights:**
+- OpenTok video consultations with in-call vitals and SOAP note documentation
+- Interactive Human Anatomy module for patients to pinpoint areas of concern
+- Family subscription management — multiple members under one Stripe account
+- Secure messaging with file attachment support
+- Doctor profile credentialing system with blog/educational content publishing
 
-Shop Open/Close Timing: Stay informed about shop operating hours. Know when your favorite shops open and close, ensuring you make the most of your shopping experience.
+**Tech:** Swift · UIKit · MVVM · OpenTok · Socket.IO · Stripe · Firebase · REST APIs
 
-Shop Address and Navigation: Get precise shop addresses and seamlessly navigate to them using Google Maps integration. Reach your destination hassle-free.
+---
 
-Unlock Shop Doors: Unlock the doors of participating shops right from the app. Experience a new level of convenience and eliminate the need for physical keys or cards.
+### Trough — Event & Food Truck Booking
+*Xeven Solutions · [Download on App Store](https://apps.apple.com/us/app/trough/id6443418603)*
 
-Account Management: Take control of your account. Easily deactivate or delete your account whenever you desire, putting you in full command of your personal data.
+Social event planning with food truck booking, menu ordering, and driver-side companion app.
 
-Experience the future of seamless shopping with Unlimit Key. Discover nearby shops, access key information, and unlock doors with a simple tap. Download now and unlock a world of convenience!
+**Technical highlights:**
+- Dual-app architecture: user app + dedicated food truck driver app
+- Stripe payment flow for event bookings and food orders
+- Google Maps integration for food truck discovery and location tracking
+- Real-time order status updates with push notifications
+- Social layer: likes, comments, and event feeds
 
-**Tech Used**
+**Tech:** Swift · UIKit · MVVM · Stripe · Google Maps · Firebase (FCM) · REST APIs · Animations
 
-- Swift UIKit 
-- RESTful API’s
-- Push Notofications
-- Google maps
-- Nfc
-- MVVM
+---
 
-![](images/Unlimit/1.png)  |![](images/Unlimit/6.png)  |  ![](images/Unlimit/2.png)  |  ![](images/Unlimit/3.png)  |  ![](images/Unlimit/4.png)  |  ![](images/Unlimit/5.png)
+### Fibra — Digital Receipt Management
+*Xeven Solutions*
 
-# AllahuAlam (Software Alliance)
+Paperless receipt management with unique user codes and instant notification on receipt delivery.
 
-**Project Overview**
+**Technical highlights:**
+- Unique per-user QR code generation for store-side receipt routing
+- Push notification pipeline for instant receipt delivery alerts
+- Secure Firebase-backed receipt storage with browsable history
 
-AllahuAlam is an all-in-one Islamic app offering Qibla direction, prayer times, reminders, tracking, and Quran recitation with translation.
+**Tech:** Swift · UIKit · Firebase (FCM, Firestore) · REST APIs
 
-**Project Goal**
+---
 
-AllahuAlam is a comprehensive Islamic app designed to support Muslims in their daily religious practices. With a clean interface and powerful features, it offers everything you need to stay spiritually connected, organized, and consistent in your worship.
-Whether you’re looking for accurate prayer times, Qibla direction, or the beauty of Quranic recitation with translation, AllahuAlam brings it all together in one place.
+## Skills Summary
 
-Main Features:
-- Qibla Direction
-Find the exact direction of the Qibla using your device’s GPS, no matter where you are.
+| Area | Technologies |
+|------|-------------|
+| Languages | Swift (5+ yrs), Objective-C (reading) |
+| UI | UIKit, SwiftUI, Auto Layout, UIHostingController, Custom Components |
+| Concurrency | async/await, GCD, Combine, Actors, OperationQueue |
+| Architecture | MVVM, Coordinator, Dependency Injection, Clean Architecture |
+| Payments | StoreKit 2, Apple Pay / PassKit, Stripe |
+| Testing | Swift Testing, XCTest, URLProtocol stubs, UI Testing |
+| CI/CD | Xcode Cloud, Fastlane (basics), Git, Bitbucket |
+| Services | Firebase (FCM, Firestore, Auth, Crashlytics), REST APIs, Socket.IO, OpenTok |
+| Tools | Instruments, Charles Proxy, CoreML, VisionKit, Google Maps, NFC |
 
-- Prayer Timings
-Accurate and reliable prayer times based on your location, with multiple calculation methods to suit your preferences.
+---
 
-- Prayer Reminders
-Get gentle notifications before each prayer time so you never miss a Salah again.
-
-- Prayer Tracking
-Keep track of your daily prayers, build consistency, and reflect on your worship routine over time.
-
-- Quran Recitation with Translation
-Read or listen to the Holy Quran with high-quality audio recitations. Understand the Quran better with translations available in multiple languages, including English, Urdu, and more.
-
-AllahuAlam is designed for ease, clarity, and spiritual focus. Whether you are a student, professional, traveler, or at home, this app is here to help you fulfill your religious obligations and deepen your connection with your faith.
-
-**Tech Used**
-
-- Swift UIKit 
-- RESTful API’s
-- Core Location
-- Stripe
-- Push notification
-- Firebase
-- MVVM
-
-![](images/ALLAHuALam/6.png)  |  ![](images/ALLAHuALam/1.png)  |  ![](images/ALLAHuALam/2.png)  |  ![](images/ALLAHuALam/3.png)  |  ![](images/ALLAHuALam/4.png) |  ![](images/ALLAHuALam/5.png)
-
-# Trough (Xeven Solutions (Pvt) Ltd. )
-<a href="https://apps.apple.com/us/app/trough/id6443418603" target="_blank">
-    Download on the App Store
-</a>
-
-**Project Overview**
-
-Trough is an iOS application designed to enhance social gatherings by integrating event planning, food truck booking, and advanced menu ordering capabilities. The app allows users to create events, invite friends, and seamlessly book food trucks to cater those events. Users can pre-order from the food truck's menu in advance or place orders during the event. Additionally, Trough enables users to interact socially by liking and commenting on events created by friends. The app also maintains a comprehensive history of past events and food orders for reference.
-
-For food enthusiasts looking beyond events, Trough provides a feature-rich platform to discover local food trucks, explore their menus, and place orders directly without organizing an event.
-
-**Project Goal**
-
-The goal of the Trough app is to provide a comprehensive solution for event planning, food truck booking, and menu ordering while fostering social interaction among users. Key objectives include:
-
-Enable users to create events and invite friends from within the app.
-Facilitate easy event planning and management with intuitive controls.
-
-Integrate a directory of local food trucks for users to browse and select.
-Allow users to book a food truck for their event directly through the app.
-
-Provide users with the ability to view food truck menus and place orders in advance or during the event.
-Ensure smooth transactions and real-time updates on order status.
-
-Enable users to like and comment on events created by their friends.
-Foster community engagement through interactive event features.
-
-Maintain a record of past events and food orders for users to reference.
-Offer insights into previous interactions and preferences.
-
-Developed a dedicated version of the app for food truck drivers.
-Notify drivers of incoming orders, event invitations, and order management tools.
-Provide a clear view of current and previous orders, payments, and event details.
-By achieving these goals, Trough aims to streamline the process of event planning and food truck booking while enriching social experiences and supporting local food vendors. The app seeks to become a go-to platform for both users hosting events and those seeking unique culinary experiences from food trucks in their area.
-
-**Tech Used**
-
-- Swift UIKit 
-- RESTful API’s
-- Push Notification
-- Firebase
-- Google Maps
-- Stripe
-- Animations
-- Third-party login
-
-![](images/Trough/1.png)  |  ![](images/Trough/5.png)  |  ![](images/Trough/4.png)  |  ![](images/Trough/6.png)  |  ![](images/Trough/8.png)
-
-
-# Intely Health (Xeven Solutions (Pvt) Ltd. )
-
-**Project Overview**
-
-Intely Health is an iOS application designed to streamline the healthcare experience by connecting patients with doctors for virtual appointments. The platform caters to both patients seeking medical advice and doctors offering their services through a user-friendly interface. Key functionalities include appointment booking, video consultations, secure messaging, health data management, and subscription management for families.
-
-**Project Goal**
-
-The goal of Intely Health is to provide a comprehensive digital healthcare solution that enhances accessibility, convenience, and efficiency for both patients and doctors. By leveraging technology, the app aims that:
-
-Patients can browse doctor profiles, view their specialties, and book appointments based on availability.
-Doctors can create and manage appointment slots, view their schedules, and handle patient bookings.
-
-Patients and doctors can conduct secure video calls directly within the app after booking appointments.
-During video calls, doctors can take SOAP notes, record vitals, and manage appointment-specific details.
-
-Secure messaging allows patients and doctors to communicate post-appointment for follow-ups and queries.
-Doctors can create blogs, share educational content, and send emails with attachments to patients and colleagues.
-
-Patients are required to input personal and medical information, including lab results, prior to booking appointments.
-A user-friendly interface allows patients to manage health records and access interactive tools like an Anatomy system to pinpoint areas of concern.
-
-Patients can purchase subscriptions to manage appointments for themselves and multiple family members under one account.
-Family members can utilize the app individually while sharing subscription benefits.
-
-Patients can read blogs and articles authored by doctors within the app, enhancing health literacy and promoting proactive healthcare.
-
-Doctors can showcase their experience, achievements, specialties, and professional credentials to establish credibility among patients.
-Intely Health aims to revolutionize healthcare delivery by bridging the gap between patients and doctors through intuitive digital interactions, ensuring personalized care, and fostering a proactive approach to health management.
-
-**Tech Used**
-- Swift UIKit 
-- RESTful API’s
-- Push Notification
-- Firebase
-- Socket.IO
-- OpenTok
-- Stripe
-- Interactive Human Anatomy
-
-<p align="center">
-  <img src="images/Intely/2.png" alt="Image 1" width="150" height="300" />
-  <img src="images/Intely/5.png" alt="Image 2" width="150" height="300" />
-  <img src="images/Intely/4.png" alt="Image 3" width="150" height="300" />
-  <img src="images/Intely/6.png" alt="Image 4" width="150" height="300" />
-  <img src="images/Intely/12.png" alt="Image 4" width="150" height="300" />
-  <img src="images/Intely/11.png" alt="Image 3" width="150" height="300" />
-  <img src="images/Intely/10.png" alt="Image 4" width="150" height="300" />
-  <img src="images/Intely/13.png" alt="Image 4" width="150" height="300" />
-  <img src="images/Intely/14.png" alt="Image 4" width="150" height="300" />
-</p>
-
-# Medical Ai (Xeven Solutions (Pvt) Ltd. )
-
-**Project Overview**
-
-Medical Ai is an advanced iOS application designed to enhance the healthcare experience for both patients and doctors through the use of artificial intelligence. The app offers a comprehensive suite of features that facilitate appointment management, virtual consultations, patient-doctor communication, and AI-driven medical advice. The platform is divided into two main interfaces: one for doctors and one for patients, each tailored to their specific needs and functionalities.
-
-**Project Goal**
-
-Project Overview: Medical Ai
-Medical Ai is an advanced iOS application designed to enhance the healthcare experience for both patients and doctors through the use of artificial intelligence. The app offers a comprehensive suite of features that facilitate appointment management, virtual consultations, patient-doctor communication, and AI-driven medical advice. The platform is divided into two main interfaces: one for doctors and one for patients, each tailored to their specific needs and functionalities.
-
-Project Goal:
-The goal of Medical Ai is to provide a state-of-the-art digital healthcare solution that leverages artificial intelligence to improve accessibility, efficiency, and quality of care for patients and doctors. Key objectives include:
-
-Doctors: Manage patient information, appointment slots, earnings, and communications efficiently through an intuitive dashboard. The app allows doctors to document appointment details, SOAP notes, and vitals during video calls.
-Patients: Easily book appointments, manage personal and medical information, and track their healthcare interactions through a user-friendly interface.
-
-Enable patients and doctors to conduct secure video consultations, ensuring timely and accessible medical care.
-Allow doctors to add notes and vital records during consultations, ensuring comprehensive documentation.
-
-AI Chatbot: Provide patients with instant access to a general physician AI chatbot for preliminary medical advice, reducing the need for immediate appointments.
-Allow patients to read doctor-created blogs and access educational content within the app.
-
-Patients can input and manage their personal and medical information, including lab results, ensuring that doctors have all necessary data for accurate diagnosis and treatment.
-Doctors can create detailed profiles showcasing their experience, achievements, and specialties to build trust and credibility.
-
-Provide doctors with analytics on total patients, earnings, and appointment statistics to help them manage their practice effectively.
-Offer patients insights into their appointment history and health metrics, promoting proactive health management.
-
-By integrating AI-driven features and user-centric design, Medical Ai aims to revolutionize the way healthcare is delivered and managed, ensuring a seamless, efficient, and accessible experience for both patients and doctors.
-
-**Tech Used**
-
-- Swift UIKit 
-- RESTful API’s
-- Push Notification
-- Firebase
-- Socket.IO
-- OpenTok
-- Stripe
-- DGCharts
-
-<p align="center">
-  <img src="images/MedicalAi/medical12png.png" alt="Image 1" width="150" height="350" />
-  <img src="images/MedicalAi/medical3.png" alt="Image 2" width="150" height="350" />
-  <img src="images/MedicalAi/medical9.png" alt="Image 3" width="150" height="350" />
-  <img src="images/MedicalAi/medical7.png" alt="Image 4" width="150" height="350" />
-  <img src="images/MedicalAi/medical8.png" alt="Image 4" width="150" height="350" />
-  <img src="images/MedicalAi/medical1.png" alt="Image 3" width="150" height="500" />
-</p>
-
-
-# Fibra
-
-**Project Overview**
-
-Fibra is a mobile application designed to streamline the process of managing receipts from a specific store. By generating a unique user code for each customer, the app allows users to receive their receipts digitally and get notified instantly when a new receipt is added to their collection. This innovative approach not only declutters physical storage but also promotes an eco-friendly, paperless environment.
-
-**Project Goal**
-
-Enhance User Convenience: Simplify the receipt management process for users, eliminating the need to keep physical receipts.
-Promote Eco-Friendly Practices: Encourage the use of digital receipts to reduce paper waste.
-Ensure Data Security: Provide a secure platform for users to store and access their receipts.
-Improve Store-Customer Interaction: Facilitate seamless communication between the store and customers through instant receipt notifications.
-
-**Tech Used**
-
-- Swift UIKit 
-- RESTful API’s
-- Push Notification
-- Firebase
-
-![](images/Fibra/1.png)  |  ![](images/Fibra/4.png)  |  ![](images/Fibra/3.png)  |  ![](images/Fibra/6.png)   
+*Open to Senior iOS Developer roles in the Netherlands and Portugal · Visa sponsorship required*
