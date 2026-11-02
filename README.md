@@ -1,198 +1,218 @@
 # Mateen Nawaz — Senior iOS Developer
 
-**5+ years · Swift · UIKit · SwiftUI · StoreKit 2 · Apple Pay · MVVM · Xcode Cloud**
+**6 years · Swift · SwiftUI · UIKit · MVVM · Swift Testing**
 
-I build production iOS apps used across Europe, Greenland, and the Middle East. Currently leading an iOS team at Software Alliance and building WorcX — a workforce management platform with a Swift Testing suite and Xcode Cloud CI/CD pipeline.
+I build and own production iOS apps, mostly for clients in Denmark and Greenland: identity and access (Danish MitID, NFC door unlocking for unmanned stores), payments, and telemedicine. I'm the sole iOS engineer at Software Alliance, where I also mentor the company's Android developer.
 
-📍 Lahore, Pakistan · Open to relocation → **Netherlands · Portugal**
+📍 Lahore, Pakistan
 📧 mateennawaz7@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/mateen-nawaz-ios-app-developer)
 
 ---
 
-## Projects
+## Software Alliance · 2024 – present
 
 ---
 
-### WorcX — Workforce Management Platform
-*Personal project · In active development*
+### SmartShop 24-7 — New SwiftUI App for Unstaffed Grocery Stores
+*Software Alliance · In development*
 
-A workforce scheduling and billing platform. Full ownership of architecture, payments, and delivery pipeline.
+The next version of the app for SmartShop 24-7, a chain of unstaffed, self-service grocery stores in Denmark that are open around the clock. Customers verify their identity, unlock the store door, find stores, join events and keep their receipts.
 
 **Technical highlights:**
-- MVVM architecture with clean ViewModel/View separation and coordinator-based navigation
-- StoreKit 2 subscription flows and Apple Pay/PassKit payment sheet integration
-- Swift Testing suite: pure logic tests, ViewModel unit tests with mocked dependencies, URLProtocol network stubs
-- Xcode Cloud CI/CD: build-on-PR, automated test runs, archive on release tag
-- UIKit base with UIHostingController for SwiftUI feature screens
+- Built entirely in SwiftUI and Swift 6, using `@Observable` state and value-based `NavigationStack` routing
+- Identity verification with MitID (Danish national digital ID) or an ID document plus phone/email OTP
+- NFC and in-app door unlock once a customer is verified
+- Protocol-based services injected from a single composition root, so each service can run against the live API or an in-memory demo backend
+- Migrating from a legacy backend to a new REST API, with Keychain token storage and automatic token refresh
+- Danish, English and German, with server-side text overrides
+- Unit tests in Swift Testing and UI tests in XCTest
 
-**Tech:** Swift · UIKit · SwiftUI · MVVM · StoreKit 2 · Apple Pay · PassKit · Firebase · Xcode Cloud · Swift Testing · async/await
+**Tech:** Swift 6 · SwiftUI · async/await · Swift Package Manager · REST APIs · Keychain · NFC · Swift Testing · XCTest
 
 ---
 
-### Safetii Patron — Nightclub Identity Verification
+### WorcX — Job Management for Trade Businesses
+*Software Alliance · For a Danish client · In development*
+
+An app for craftsmen and small trade businesses that runs a job from site inspection to pricing, offer and invoice.
+
+**Technical highlights:**
+- One app, two roles (owner and employee): the role comes from the server at login, and screens switch features on or off rather than being duplicated
+- Every API call follows the same layered pattern (Endpoint → Resource → ViewModel → ViewController) with async/await
+- Features unlock by subscription plan, with Stripe for payment
+- Danish and English, with backend-served texts and Danish currency formatting in both languages
+- AI-written inspection notes, and a hands-free AI voice assistant (in progress)
+- Push notifications that open the right screen
+- Swift Testing suite: pure logic tests, ViewModel tests with mocked dependencies, and URLProtocol network stubs
+
+**Tech:** Swift · UIKit · Storyboards · MVVM · async/await · Stripe · Firebase (FCM) · Swift Testing
+
+---
+
+### Safetii Patron — Nightlife Identity Verification
 *Software Alliance · [Download on App Store](https://apps.apple.com/pk/app/safetii-patron/id6743107798)*
 
-Digital identity passport for nightlife venues. Live in Denmark/Europe.
+A digital identity passport for nightlife venues in Denmark.
 
 **Technical highlights:**
-- MitID (EU identity standard) integration for secure user registration
-- QR code generation with 24-hour expiry logic for venue access
-- Push notification system for incident alerts and access restrictions
-- Visit history with check-in/quarantine record tracking
+- MitID (Danish national digital ID) sign-up through Criipto
+- QR code generation with 24-hour expiry for venue access
+- Push notifications for incident alerts and access restrictions
+- Visit history with check-in and quarantine records
 
-**Tech:** Swift · UIKit · MVVM · Firebase (FCM, Auth) · REST APIs · async/await
+**Tech:** Swift · UIKit · MVVM · Criipto · Firebase (FCM, Auth) · REST APIs · async/await
 
 ---
 
 ### Safetii Guard — Venue Security App
-*Software Alliance · [Download on App Store](https://apps.apple.com/pk/app/safetii-guard/id6743107664)*
+*Software Alliance · [Download on App Store](https://apps.apple.com/us/app/safetii-guard/id6743107664)*
 
-Real-time patron verification and incident management for nightlife security staff. Companion app to Safetii Patron.
+The companion app for security staff: verify guests, monitor occupancy and manage incidents.
 
 **Technical highlights:**
-- QR code scanning for instant patron identity verification against live backend
-- Real-time patron occupancy monitoring with push-driven updates
-- Incident reporting and temporary ban management with duration/reason tracking
+- QR code scanning to verify a guest's identity against the live backend
+- Real-time occupancy monitoring with push-driven updates
+- Incident reporting and temporary bans with duration and reason tracking
 
 **Tech:** Swift · UIKit · MVVM · Firebase (FCM) · REST APIs
 
 ---
 
-### Pisiffik — Grocery Delivery App
+### Pisiffik — Grocery Shopping and Delivery
 *Software Alliance · [Download on App Store](https://apps.apple.com/pk/app/pisiffik/id1637092101)*
 
-E-commerce delivery app for Greenland and Denmark. Thousands of active users across Greenlandic retail chain.
+A shopping and delivery app for a Greenlandic retail chain.
 
 **Technical highlights:**
-- Product catalogue with real-time inventory, cart management, and order tracking
-- Loyalty points system integrated across multiple retail partners (SPAR, JYSK, ILVA, T-hansen)
-- Push notification pipeline for order status updates and promotional alerts
-- Payment gateway integration for secure checkout
+- Product catalogue, cart management and order tracking
+- Digital loyalty membership card: customers earn points on both in-store and in-app purchases
+- Checkout across several payment providers, including QuickPay: the server supplies the payment URLs, the app opens them in a WKWebView and confirms success from the response
+- Push notifications for order status and promotions
 
-**Tech:** Swift · UIKit · MVVM · Firebase (FCM) · REST APIs · Payment Gateways
+**Tech:** Swift · UIKit · MVVM · WKWebView · Firebase (FCM) · REST APIs
 
 ---
 
 ### LM Walk-in Vending — Unmanned Warehouse Access
 *Software Alliance · [Download on App Store](https://apps.apple.com/pk/app/lm-walk-in-vending/id6746488515)*
 
-B2B access app for Lemvigh-Müller's unmanned SmartWarehouse locations in Denmark.
+A B2B access app for Lemvigh-Müller's unmanned SmartWarehouse locations in Denmark.
 
 **Technical highlights:**
-- Secure entry authentication with automatic digital invoicing on exit
-- Designed for professional/enterprise B2B customers with zero human staff interaction
-- Clean UIKit implementation — minimal dependencies, fast launch, reliable offline edge-case handling
+- Secure entry with automatic digital invoicing on exit
+- Built for trade customers, with no staff on site
+- Lean UIKit implementation with minimal dependencies and careful handling of offline edge cases
 
-**Tech:** Swift · UIKit · MVVM · REST APIs
+**Tech:** Swift · UIKit · MVVM · NFC · REST APIs
 
 ---
 
-### Unlimit Key — Smart Shop Access
-*Software Alliance*
+### Unlimit Key & Smart Shop 24-7 — Shop Access
+*Software Alliance · [Unlimit Key](https://apps.apple.com/us/app/unlimit-key/id6476619223) · [Smart Shop 24-7](https://apps.apple.com/pk/app/smart-shop-24-7/id6737332516)*
 
-Retail access app — discover nearby shops, unlock doors via NFC/app, manage account.
+Find nearby shops and unlock their doors from your phone.
 
 **Technical highlights:**
-- NFC-based door unlock flow with hardware integration
-- Google Maps integration for shop discovery and navigation
-- Open/close timing awareness and zip-code search
+- NFC door unlock with hardware integration
+- MitID sign-up through Criipto
+- Google Maps for shop discovery and navigation
+- Opening-hours awareness and zip-code search
+- English and German
 
-**Tech:** Swift · UIKit · MVVM · NFC · Google Maps · Firebase (FCM) · REST APIs
+**Tech:** Swift · UIKit · MVVM · NFC · Criipto · Google Maps · Firebase (FCM) · REST APIs
 
 ---
 
 ### AllahuAlam — Islamic Reference App
-*Software Alliance*
+*Software Alliance · [Download on App Store](https://apps.apple.com/pk/app/allahualam/id6742174395)*
 
-Comprehensive Islamic lifestyle app — Quran, prayer times, Qibla, and Stripe-powered premium features.
+Quran, prayer times, Qibla direction and reminders in one app.
 
 **Technical highlights:**
-- CoreLocation integration for accurate prayer times and Qibla direction calculation
-- Audio playback engine for Quran recitation with multi-language translation sync
-- Stripe payment integration for premium subscription tier
-- Push notification scheduling for prayer time reminders
+- Core Location and Core Motion for accurate prayer times and a Qibla compass
+- Audio playback for Quran recitation, synced with translations in several languages
+- Stripe payments for the premium tier
+- Scheduled push reminders for prayer times
 
-**Tech:** Swift · UIKit · MVVM · CoreLocation · Stripe · Firebase (FCM, Auth) · REST APIs
+**Tech:** Swift · UIKit · MVVM · Core Location · Core Motion · Stripe · WebSockets · Firebase (FCM, Auth) · REST APIs
+
+---
+
+## Xeven Solutions · 2020 – 2024
 
 ---
 
 ### Medical AI — Telemedicine Platform
 *Xeven Solutions*
 
-Dual-interface telemedicine app (patient + doctor) with AI diagnostics, video consultations, and real-time messaging.
+A telemedicine app with separate patient and doctor experiences: video consultations, real-time messaging and AI-assisted triage.
 
 **Technical highlights:**
-- OpenTok (Vonage) video consultation integration with in-call SOAP note capture
-- Socket.IO real-time patient-doctor messaging with read receipts
+- OpenTok (Vonage) video consultations with in-call SOAP note capture
+- Socket.IO patient–doctor messaging with read receipts
 - AI chatbot for preliminary symptom triage
-- DGCharts-powered analytics dashboard for doctors (patient counts, earnings, appointment stats)
-- Stripe subscriptions for family plan management
+- DGCharts analytics dashboard for doctors (patients, earnings, appointments)
+- Stripe subscriptions for family plans
 
-**Tech:** Swift · UIKit · MVVM · Socket.IO · OpenTok · Stripe · Firebase · DGCharts · REST APIs
+**Tech:** Swift · UIKit · MVVM · OpenTok · Socket.IO · Stripe · Firebase · DGCharts · REST APIs
 
 ---
 
 ### Intely Health — Virtual Healthcare Platform
 *Xeven Solutions*
 
-Full-stack virtual healthcare app connecting patients with doctors for appointments, video calls, and health record management.
+A virtual healthcare app connecting patients with doctors for appointments, video calls and health records.
 
 **Technical highlights:**
 - OpenTok video consultations with in-call vitals and SOAP note documentation
-- Interactive Human Anatomy module for patients to pinpoint areas of concern
-- Family subscription management — multiple members under one Stripe account
-- Secure messaging with file attachment support
-- Doctor profile credentialing system with blog/educational content publishing
+- Interactive human-anatomy module so patients can point to where it hurts
+- Family subscriptions: several members under one Stripe account
+- Secure messaging with file attachments
+- Doctor profiles with credentials and educational posts
 
 **Tech:** Swift · UIKit · MVVM · OpenTok · Socket.IO · Stripe · Firebase · REST APIs
 
 ---
 
-### Trough — Event & Food Truck Booking
+### Trough — Events and Food-Truck Booking
 *Xeven Solutions · [Download on App Store](https://apps.apple.com/us/app/trough/id6443418603)*
 
-Social event planning with food truck booking, menu ordering, and driver-side companion app.
+Social event planning with food-truck booking, menu ordering and a companion app for drivers.
 
 **Technical highlights:**
-- Dual-app architecture: user app + dedicated food truck driver app
-- Stripe payment flow for event bookings and food orders
-- Google Maps integration for food truck discovery and location tracking
-- Real-time order status updates with push notifications
-- Social layer: likes, comments, and event feeds
+- Two apps: one for users and a dedicated one for food-truck drivers
+- Stripe payments for event bookings and food orders
+- Google Maps for food-truck discovery and live location
+- Real-time order updates with push notifications
+- Social layer: likes, comments and event feeds
 
-**Tech:** Swift · UIKit · MVVM · Stripe · Google Maps · Firebase (FCM) · REST APIs · Animations
+**Tech:** Swift · UIKit · MVVM · Stripe · Google Maps · Firebase (FCM) · REST APIs
 
 ---
 
-### Fibra — Digital Receipt Management
+### Fibra — Digital Receipts
 *Xeven Solutions*
 
-Paperless receipt management with unique user codes and instant notification on receipt delivery.
+Paperless receipts: each user has a personal code, and receipts arrive in the app instantly.
 
 **Technical highlights:**
-- Unique per-user QR code generation for store-side receipt routing
-- Push notification pipeline for instant receipt delivery alerts
-- Secure Firebase-backed receipt storage with browsable history
+- Per-user QR code that stores scan to send receipts to the right customer
+- Push notifications when a new receipt arrives
+- Receipt history stored in Firebase
 
 **Tech:** Swift · UIKit · Firebase (FCM, Firestore) · REST APIs
 
 ---
 
-## Skills Summary
+## Skills
 
 | Area | Technologies |
 |------|-------------|
-| Languages | Swift (5+ yrs), Objective-C (reading) |
-| UI | UIKit, SwiftUI, Auto Layout, UIHostingController, Custom Components |
-| Concurrency | async/await, GCD, Combine, Actors, OperationQueue |
-| Architecture | MVVM, Coordinator, Dependency Injection, Clean Architecture |
-| Payments | StoreKit 2, Apple Pay / PassKit, Stripe |
-| Testing | Swift Testing, XCTest, URLProtocol stubs, UI Testing |
-| CI/CD | Xcode Cloud, Fastlane (basics), Git, Bitbucket |
-| Services | Firebase (FCM, Firestore, Auth, Crashlytics), REST APIs, Socket.IO, OpenTok |
-| Tools | Instruments, Charles Proxy, CoreML, VisionKit, Google Maps, NFC |
-
----
-
-*Open to Senior iOS Developer roles in the Netherlands and Portugal · Visa sponsorship required*
+| Languages & UI | Swift (incl. Swift 6), SwiftUI (`@Observable`, `NavigationStack`), UIKit (Storyboards, Auto Layout), localization (Danish, English, German) |
+| Architecture & concurrency | MVVM, protocol-based services with dependency injection, async/await, Swift 6 strict concurrency, GCD |
+| Payments | Stripe (payments and subscription plans), QuickPay and other providers via WKWebView checkout |
+| Identity & access | MitID (Criipto), ID-document and OTP verification, NFC, QR codes, Keychain |
+| Backend & real-time | REST APIs, Supabase, Firebase (FCM, Firestore, Auth), Socket.IO, WebSockets, OpenTok |
+| Location & maps | Google Maps, Core Location, Core Motion |
+| Testing & tooling | Swift Testing, XCTest (unit and UI), Swift Package Manager, TestFlight, Git (Bitbucket), Instruments, Jira, Figma |
